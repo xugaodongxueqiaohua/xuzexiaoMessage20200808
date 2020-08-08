@@ -1,2 +1,5 @@
 # xuzexiaoMessage20200808
+
+这个文件创建于20200808新昌县锦江之星宾馆。用于xugaodongxueqiaohua和xuzexiao之间的信息更新。
+
 # xuzexiaoMessage20200808
